@@ -14,6 +14,9 @@
 				1 si es obligatorio - 0 no
 
 3=> Cuadro de 	
+asdasdasdasd
+asda
+
 	seleccion
 
 			
