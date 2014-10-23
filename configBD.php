@@ -25,11 +25,41 @@ fjdsñlkfjasd
  fdskaf jas
  d
 
+function nicote (){
+	
+'hola como va?'
+
+
+}
+kd sjfa
+asdjfkasdj fasd f 
+dsa
+sadf
+sd
+ fdsa
+ df
+ a
+ ad
+ sfas
+ 
+ 
  function bater(){
  	sos un crack;
  	igual que vos master;
- 	ni ahi vos sos mas;
- 	no seas humilde vos sos mas;
+ 	ni ahi vos sos mas;cno seas humilde vos sos mas;
  }
 
+<<<<<<< HEAD
 fdkasjfñlaksd 
+=======
+ function baterflowman(){
+ 	sos un crack;
+ 	igual que vos master;
+ 	ni ahi vos sos mas;cno seas humilde vos sos mas;
+ }
+
+
+
+
+estoy es lo de nicote
+>>>>>>> 775c11e337cc16bb0f8908cc51d904bd507bc3c9
