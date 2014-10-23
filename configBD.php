@@ -31,7 +31,18 @@ function nicote (){
 
 
 }
-
+kd sjfa
+asdjfkasdj fasd f 
+dsa
+sadf
+sd
+ fdsa
+ df
+ a
+ ad
+ sfas
+ 
+ 
  function bater(){
  	sos un crack;
  	igual que vos master;
