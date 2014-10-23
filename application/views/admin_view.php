@@ -50,7 +50,7 @@
 		         
 		    #muestra los botones de edicion y borrado
 		    echo<<<HTML
-		          <td width="14%"><a href=$editar data-toggle="tooltip" data-placement="top" title="Editar"> <button type="button" class="btn btn-primary btn-sm col-lg-offset-1"><strong> Editar</strong>
+		          <td width="16%"><a href=$editar data-toggle="tooltip" data-placement="top" title="Editar"> <button type="button" class="btn btn-primary btn-sm col-lg-offset-1"><strong> Editar</strong>
 		              </button> </a> <a href=$borrar title="Eliminar" onclick="return confirm('¿Esta seguro que desea eliminarlo?')" data-toggle="tooltip" data-placement="top"  > <button type="button" class="btn btn-danger btn-sm col-lg-offset-1"><strong> Borrar</strong>
 		              </button>
 		              </a>

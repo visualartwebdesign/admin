@@ -71,7 +71,8 @@ class Login extends CI_Controller
 	                'email' 		=> 		$check_user->email
             		);		
 					$this->session->set_userdata($data);
-					$this->index();
+					//$this->index();
+					redirect(base_url().'index.php/login');
 				}
 			}
 		}else{

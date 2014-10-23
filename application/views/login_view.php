@@ -23,7 +23,7 @@
           <h1 class="text-center">Login</h1>
       </div>
       <div class="modal-body">
-          <form class="form col-md-12 center-block" method="post" action="http://localhost/roles_usuarios/index.php/login/newUser">
+          <form class="form col-md-12 center-block" method="post" action=<?= base_url() . "index.php/login/newUser"; ?>>
             <div class="form-group">
               <input type="text" class="form-control input-lg" name="username"  placeholder="Usuario">
             </div>

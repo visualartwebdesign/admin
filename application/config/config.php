@@ -17,11 +17,11 @@ ini_set("display_errors",1);
 |
 |	http://example.com/
 |
-| If this is not set then CodeIgniter will guess the protocol, domain and
+| If this is not set then CodeIgniter will guess the protocol, domain andd
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://localhost/roles_usuarios/';
+$config['base_url']	= 'http://localhost/admin/';
 
 /*
 |--------------------------------------------------------------------------
