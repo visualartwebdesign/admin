@@ -16,16 +16,5 @@
 3=> Cuadro de 	
 	seleccion
 
-
-
-fdkasljfa
-sd jfkajdskf
-ashd jkjfkas
-djfkasjdfa
-sd fja
-sjdf
-asdfjasd
-
-sos un crack
 			
 
