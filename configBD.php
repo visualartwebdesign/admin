@@ -24,3 +24,9 @@ asda
 fjdsñlkfjasd
  fdskaf jas
  d
+function nicote (){
+	
+'hola como va?'
+
+
+}
