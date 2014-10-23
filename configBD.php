@@ -14,48 +14,7 @@
 				1 si es obligatorio - 0 no
 
 3=> Cuadro de 	
-asdasdasdasd
-asda
+
 
 	seleccion
 
-			
-
-fjdsñlkfjasd
- fdskaf jas
- d
-
-function nicote (){
-	
-'hola como va?'
-
-
-}
-kd sjfa
-asdjfkasdj fasd f 
-dsa
-sadf
-sd
- fdsa
- df
- a
- ad
- sfas
- 
- 
- function bater(){
- 	sos un crack;
- 	igual que vos master;
- 	ni ahi vos sos mas;cno seas humilde vos sos mas;
- }
-
- function baterflowman(){
- 	sos un crack;
- 	igual que vos master;
- 	ni ahi vos sos mas;cno seas humilde vos sos mas;
- }
-
-
-
-
-estoy es lo de nicote
