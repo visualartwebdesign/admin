@@ -44,3 +44,7 @@ function nicote (){
  	ni ahi vos sos mas;cno seas humilde vos sos mas;
  }
 
+
+
+
+estoy es lo de nicote
