@@ -21,3 +21,13 @@
 fjdsñlkfjasd
  fdskaf jas
  d
+
+
+
+
+ function bater(){
+ 	sos un crack;
+ 	igual que vos master;
+ 	ni ahi vos sos mas;
+ 	no seas humilde vos sos mas;
+ }
