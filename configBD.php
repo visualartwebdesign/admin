@@ -14,6 +14,7 @@
 				1 si es obligatorio - 0 no
 
 3=> Cuadro de 	
+<<<<<<< HEAD
 asdasdasdasd
 asda
 
@@ -58,8 +59,14 @@ fdkasjfñlaksd
  	ni ahi vos sos mas;cno seas humilde vos sos mas;
  }
 
+=======
+>>>>>>> 891c7fcb6ab959eca60e805329da40f8b5d4aae8
 
 
+	seleccion
 
+<<<<<<< HEAD
 estoy es lo de nicote
 >>>>>>> 775c11e337cc16bb0f8908cc51d904bd507bc3c9
+=======
+>>>>>>> 891c7fcb6ab959eca60e805329da40f8b5d4aae8
