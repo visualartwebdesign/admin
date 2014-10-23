@@ -35,7 +35,12 @@ function nicote (){
  function bater(){
  	sos un crack;
  	igual que vos master;
- 	ni ahi vos sos mas;
- 	no seas humilde vos sos mas;
+ 	ni ahi vos sos mas;cno seas humilde vos sos mas;
+ }
+
+ function baterflowman(){
+ 	sos un crack;
+ 	igual que vos master;
+ 	ni ahi vos sos mas;cno seas humilde vos sos mas;
  }
 
