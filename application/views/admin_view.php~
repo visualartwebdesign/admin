@@ -90,7 +90,7 @@ $(document).ready(function() {
 var table=$('#tabla').dataTable( {
 	"dom": 'C<"clear">lfrtip',
 	"colVis":{
-		"buttonText": "Seleccionar columnas"},
+		"buttonText": "bater"},
 	"bStateSave": true,
         "fnStateSave": function (oSettings, oData) {
             localStorage.setItem( 'DataTables', JSON.stringify(oData) );
